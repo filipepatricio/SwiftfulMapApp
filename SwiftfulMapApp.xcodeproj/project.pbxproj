@@ -17,6 +17,7 @@
 		9B23DE732C174B4E000C91C9 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B23DE722C174B4E000C91C9 /* LocationsViewModel.swift */; };
 		9B23DE752C2033A8000C91C9 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B23DE742C2033A8000C91C9 /* LocationsListView.swift */; };
 		9B23DE772C217876000C91C9 /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B23DE762C217876000C91C9 /* LocationPreviewView.swift */; };
+		9B23DE792C2186A9000C91C9 /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B23DE782C2186A9000C91C9 /* LocationMapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		9B23DE722C174B4E000C91C9 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 		9B23DE742C2033A8000C91C9 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 		9B23DE762C217876000C91C9 /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
+		9B23DE782C2186A9000C91C9 /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				9B23DE702C174945000C91C9 /* LocationsView.swift */,
 				9B23DE742C2033A8000C91C9 /* LocationsListView.swift */,
 				9B23DE762C217876000C91C9 /* LocationPreviewView.swift */,
+				9B23DE782C2186A9000C91C9 /* LocationMapAnnotationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B23DE6F2C174383000C91C9 /* LocationsDataService.swift in Sources */,
+				9B23DE792C2186A9000C91C9 /* LocationMapAnnotationView.swift in Sources */,
 				9B23DE752C2033A8000C91C9 /* LocationsListView.swift in Sources */,
 				9B23DE772C217876000C91C9 /* LocationPreviewView.swift in Sources */,
 				9B23DE732C174B4E000C91C9 /* LocationsViewModel.swift in Sources */,
