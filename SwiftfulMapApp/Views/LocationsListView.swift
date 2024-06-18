@@ -31,7 +31,7 @@ struct LocationsListView: View {
         .environmentObject(LocationsViewModel())
 }
 
-struct ListRowView: View {
+private struct ListRowView: View {
     let location: Location
     var body: some View {
         HStack {
